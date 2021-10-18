@@ -1,0 +1,10 @@
+#ifndef AP1_ASSIGNMENT4_ACTIVITIES_H
+#define AP1_ASSIGNMENT4_ACTIVITIES_H
+
+
+class Activities {
+
+};
+
+
+#endif //AP1_ASSIGNMENT4_ACTIVITIES_H
